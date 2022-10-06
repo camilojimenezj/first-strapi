@@ -1,5 +1,5 @@
 
-import { Post, Response } from "../../../../types"
+import { Post, Response } from "../../../types"
 
 export default async function formatPosts(): Promise<Response[]> {
 
